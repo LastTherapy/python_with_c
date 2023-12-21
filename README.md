@@ -31,37 +31,37 @@
 ## Chapter III
 ### Intro
 
- &mdash; Oh come on, Dom, you're racing for years already, you're telling be you've never
- configured an [ECU](https://en.wikipedia.org/wiki/Engine_control_unit)?
+ "Oh come on, Dom, you're racing for years already, you're telling be you've never
+ configured an [ECU](https://en.wikipedia.org/wiki/Engine_control_unit)?"
  
  It was obvious that Letty wasn't angry, just playful.
  
- &mdash; Aren't those always proprietary and sealed?
+ "Aren't those always proprietary and sealed?"
  
- &mdash; Not really, if you have the right equipment. - She poked his forehead with a dirty 
- mechanic glove. - Especially here.
+ "Not really, if you have the right equipment," she poked his forehead with a dirty 
+ mechanic glove. "Especially here."
  
- &mdash; Okay then. So, it should react to a bunch of sensors and do it really fast.
+ "Okay then. So, it should react to a bunch of sensors and do it really fast."
  
  Toretto pulled a laptop from the table and put it on a toolbox in front of him. He wanted
  to connect to the unit, but Letty raised her hand.
  
- &mdash; I know how you usually like to dig too deep. Let's start with something simple.
+ "I know how you usually like to dig too deep. Let's start with something simple."
 
 ## Chapter IV
 ### Exercise 00: Still Counts
 
 Letty pulled up a chair and sat astride it.
 
- &mdash; You know the main issue with Python? It's flexible, but slow. This is not an issue unless
- you want to have a fast thing which is flexible to control.
+ "You know the main issue with Python? It's flexible, but slow. This is not an issue unless
+ you want to have a fast thing which is flexible to control."
  
 Dominic scratched his head for a second, then nodded.
 
- &mdash; We have to fallback to C in these cases, right?
+ "We have to fallback to C in these cases, right?"
 
- &mdash; For example. I know you know basic C already. Anyway, I doubt it will be a problem
- for you to write a function to, say, sum up two numbers?
+ "For example. I know you know basic C already. Anyway, I doubt it will be a problem
+ for you to write a function to, say, sum up two numbers?"
  
 -----
 
@@ -113,28 +113,28 @@ operands.
 
 The engine roared a couple of times outside and in a couple of minutes a garage door opened.
 
- &mdash; Brian, come on it! - Toretto waved invitingly. - Have you ever programmed any ECUs?
+ "Brian, come on it!" Toretto waved invitingly. "Have you ever programmed any ECUs?"
  
 Letty giggled, but tried to hide that. 
  
- &mdash; Hey Dominic! Well, not really, but I know what's the main challenge.
+ "Hey Dominic! Well, not really, but I know what's the main challenge."
  
- &mdash; Making it go as fast as possible? Just like with cars in general?
+ "Making it go as fast as possible? Just like with cars in general?"
  
- &mdash; Actually, it's making *SURE* that it goes faster than before. Do you know how computers
- measure time?
+ "Actually, it's making *SURE* that it goes faster than before. Do you know how computers
+ measure time?"
  
 Dominic raised an eyebrow, but Letty immediately responded: 
  
- &mdash; Every computer has at least two types of clocks - one stores current time and one 
- measures periods of it, so a machine can compare them.
+ "Every computer has at least two types of clocks - one stores current time and one 
+ measures periods of it, so a machine can compare them."
  
- &mdash; Exactly! - Brian smiled. - So when it comes to split-seconds there is a physical crystal 
+ "Exactly!" Brian smiled. "So when it comes to split-seconds there is a physical crystal 
  on a board which vibrates on a certain frequency. To compare two time deltas you can just look
  at two numbers which are guaranteed to strictly increase tick by tick while time passes.
  
- &mdash; Oh, I remember it now. - Dominic stood up to shake Brian's hand. - That's why digital 
- car parts have monotonic clocks.
+ "Oh, I remember it now," Dominic stood up to shake Brian's hand. "That's why digital 
+ car parts have monotonic clocks."
  
 -----
 
@@ -156,17 +156,17 @@ dangerous situations, analyzing the surroundings with cameras and depth sensors.
 
 Dominic pulled Brian aside for a couple of minutes before the briefing.
 
- &mdash; You know some people on this team are a family to me. Including you. We've talked a lot
+ "You know some people on this team are a family to me. Including you. We've talked a lot
  about computers and control units this morning - can you once again tell me that this device will
- do its best to keep everyone safe? Is it fast enough?
+ do its best to keep everyone safe? Is it fast enough?"
  
- &mdash; You know this is a top notch prototype created by some very clever people.
+ "You know this is a top notch prototype created by some very clever people."
  
- &mdash; I know. I just needed a confirmation. Do you have any idea how it actually works?
+ "I know. I just needed a confirmation. Do you have any idea how it actually works?"
  
 Brian smiled and then just whispered one phrase trying to sound as spooky as possible:
 
- &mdash; It multiplies matrices!
+ "It multiplies matrices!"
  
 -----
 
