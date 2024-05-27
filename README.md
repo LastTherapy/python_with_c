@@ -91,7 +91,7 @@ Also, your code should handle zero-division errors properly by throwing a built-
 
 ```python
 >>> import calculator
->>> calculator.by(14, 0)
+>>> calculator.div(14, 0)
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ZeroDivisionError: Cannot divide by zero
