@@ -2,6 +2,8 @@
 
 ## Fast and Curious
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -183,4 +185,3 @@ For simplicity, let's say that your code should only work with integers and matr
 
 BONUS: Write a performance test in `test_mul_perf.py` comparing the basic pure Python implementation with your Cython one. It should be much faster.
 
-**Please leave your feedback [here](https://forms.gle/pAiwZa3HLZJcLSpC9).**
