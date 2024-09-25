@@ -2572,7 +2572,7 @@ static PyObject *__pyx_pf_6matrix_mul(CYTHON_UNUSED PyObject *__pyx_self, PyObje
  *     #
  *     result = [[0 for _ in range(cols_B)] for _ in range(rows_A)]             # <<<<<<<<<<<<<<
  * 
- *     #
+ * 
  */
   { /* enter inner scope */
     __pyx_t_2 = PyList_New(0); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 16, __pyx_L1_error)
@@ -2599,7 +2599,7 @@ static PyObject *__pyx_pf_6matrix_mul(CYTHON_UNUSED PyObject *__pyx_self, PyObje
   __pyx_t_2 = 0;
 
   /* "multiply.pyx":20
- *     #
+ * 
  *     cdef int i, j, k
  *     for i in range(rows_A):             # <<<<<<<<<<<<<<
  *         for j in range(cols_B):
